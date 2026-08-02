@@ -2,16 +2,6 @@
 
 A modern, responsive travel website built with **HTML**, **CSS**, and **JavaScript**. The website is designed to showcase travel destinations, tour packages, and provide users with an engaging experience across all devices.
 
-## 📸 Preview
-
-> Add a screenshot of your homepage here.
-
-```text
-assets/images/screenshot.png
-```
-
----
-
 ## 🚀 Features
 
 - 🌍 Responsive design for desktop, tablet, and mobile
